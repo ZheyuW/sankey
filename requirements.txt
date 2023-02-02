@@ -1,0 +1,5 @@
+streamlit==1.14.1
+streamlit-echarts==0.4.0
+
+pandas
+numpy
