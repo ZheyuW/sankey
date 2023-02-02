@@ -1,6 +1,5 @@
 streamlit
 pandas
-matplotlib.pyplot
 numpy
 streamlit_echarts
 json
