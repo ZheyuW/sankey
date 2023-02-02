@@ -32,7 +32,7 @@ modelTraining = st.container()
 
 options = st.container()
 
-a = open('C:/Users/ZY Wang/Desktop/test/data.json')
+a = open('data.json')
 data = json.load(a)
 
 #   for datalinks in datalink['links']:
